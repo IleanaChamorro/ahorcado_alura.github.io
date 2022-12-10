@@ -449,9 +449,9 @@ body{
 
 /**********Footer**************/
 footer p{
+  text-align: center;
   font-size: 2rem;
   margin-top:80px;
-  margin-left: 650px;
 }
 footer a{
   color: #0A3871;
